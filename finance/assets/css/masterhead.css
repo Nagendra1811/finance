@@ -1,0 +1,79 @@
+a
+{
+     text-decoration:none;
+     color:#0be2da;
+	 
+}
+a:hover
+{
+text-decoration:none;
+color:#000000;
+}
+
+.stext
+{
+	margin-left:10px;
+	margin-top:5px;
+	font-face:Arial;
+	font-size:18px;
+	font-style:strong;
+	color:White;
+	letter-spacing:5px;
+        
+}
+
+body
+{
+	
+	margin:0px;
+	margin-left:15px;
+}
+input:FOCUS
+{
+	background-color:#bbbbbb;
+	border-color:brown;
+	color:#662211;
+	font-size:medium;
+}
+input:HOVER {
+	border-color:#0f0f0f;
+}
+.cust
+{
+	margin-left:10px;
+	margin-top:5px;
+	font-face:Arial;
+	font-size:18px;
+	font-style:strong;
+	color:White;
+	letter-spacing:5px;
+        
+}
+.units
+{  
+	color:#f00a0a;
+	
+}
+.border
+{  
+	  border-style: solid; 
+	  border-width: 2px;
+	  
+	  
+}
+.res
+{  
+	 background-color:white;
+	  
+}
+.link
+{
+	margin-left:10px;
+	margin-top:5px;
+	font-face:Arial;
+	font-size:18px;
+	font-style:strong;
+	color:White;
+	letter-spacing:5px;
+        
+}

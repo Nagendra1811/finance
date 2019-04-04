@@ -1,0 +1,85 @@
+@import url(/assets/fonts/fonts.css);
+a
+{
+     text-decoration:none;
+     color:#0de2da;
+	 
+}
+a:hover
+{
+text-decoration:none;
+color:#fa0d23;
+}
+.link
+{
+	text-decoration:none;
+	color:white;
+	font-family:Arial;
+	font-size:10px;
+}
+
+.rep
+{
+	text-decoration:none;
+	color:#efefef;
+	font-family:arial;
+	font-size:36px;
+}
+.rep1
+{
+	text-decoration:none;
+	color:#efefef;
+	font-family:arial;
+	font-size:12px;
+}
+
+.border
+{  
+	  border-style: groove; 
+	  border-width: 2.5px;
+	  border-color:Black;
+	  border-collapse:collapse;
+	  border-left:none;
+	  border-top:none;
+}
+body
+{
+    margin:0px;
+}
+input:FOCUS
+{
+	background-color:#bbbbbb;
+	border-color:brown;
+	color:#662211;
+	font-size:medium;
+}
+input:HOVER {
+	border-color:#0f0f0f;
+}
+.header
+{
+	margin-left:25px;
+	text-shadow:#00ccc , 3;
+	font-family:Arial;
+	face : Arial;
+	font-size:18px;
+	font-style:normal;
+	color:White;
+    vertical-align:middle;
+    
+}
+.menudiv
+{
+	color:White;
+	margin-top:5px;
+	margin-left:5px;
+	margin-right:5px;
+	vertical-align:text-top;
+}	
+.menulist
+{
+	margin-left:-25px;
+ 	list-style-image:url(../images/bullet.gif);
+ 	list-style-position:inside;
+	font-family:Arial;
+}
